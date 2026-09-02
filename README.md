@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Nafisa Ali</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<br>
 
 - 🔭 I’m currently working on **React.js, Next.js, Typescript for frontend development**
 
