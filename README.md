@@ -23,7 +23,7 @@
   <a href="https://github.com/nafisaalicodes" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://fb.com/nafisa ali" target="_blank">
+  <a href="https://www.facebook.com/share/1Ct3eZcTGB/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/nafisa_ali_37625843" target="_blank">
