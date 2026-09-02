@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nafisaalicodes/nafisaalicodes/main/Nafisa_Ali_Banner.jpg" alt="Nafisa Ali Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Nafisa Ali</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
