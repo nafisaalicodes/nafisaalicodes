@@ -5,11 +5,11 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <br>
 
-- 🔭 I’m currently working on **React.js, Next.js, Typescript, Node.js, Express, MongoDB for web development**
+- 🔭 I’m currently working with **React.js, Next.js, Typescript, Node.js, Express, MongoDB to build modern web applications.**
 
-- 🌱 I’m currently learning **React.js, Next.js, Typescript, Node.js, Express, MongoDB**
+- 🌱 I’m currently learning and improving my skills in **React.js, Next.js, Typescript, Node.js, Express, MongoDB**
 
-- 💬 Ask me about **Frontend (Javascript,Typescript,React,Next.js)**
+- 💬 Ask me about **Full Stack Web Development (Javascript,Typescript,React,Next.js, Node.js, Express.js, MongoDB, REST APIs and Backend Development)**
 
 - 📫 How to reach me **nafisaali50491@gmail.com**
 
